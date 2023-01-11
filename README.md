@@ -5,9 +5,9 @@
 
 
 #### - 👀 I’m interested in Web Design & Web Application Development. 
-#### - 🌱 I’m currently learning PHP & Laravel, ajax and Vue
+#### - 🌱 I’m currently learning PHP & Laravel, AlpineJs, TailwindCSS, Livewire
 #### - 💞️ I’m looking to collaborate on anything, just drop me a line.
-#### - 📫 How to reach me "contact@kameleonic-design.com"
+#### - 📫 How to reach me "959media@googlemail.com"
 
 <!---
 Kameleonic/Kameleonic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
