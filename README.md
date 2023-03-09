@@ -6,7 +6,7 @@
 
 #### - 👀 I’m interested in Web Design & Web Application Development. 
 #### - 🌱 I’m currently learning PHP & Laravel, AlpineJs, TailwindCSS, Livewire
-#### - 💞️ I’m looking to collaborate on anything, just drop me a line.
+#### - 💻 I’m looking to collaborate on anything, just drop me a line.
 #### - 📫 How to reach me "959media@googlemail.com"
 
 <!---
